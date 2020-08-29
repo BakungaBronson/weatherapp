@@ -1,0 +1,7 @@
+#The log files
+*.log
+#The temp files
+*.tmp
+*~
+#Node dependencies
+node_modules
