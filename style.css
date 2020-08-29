@@ -1,0 +1,16 @@
+body {
+    display: grid;
+    grid-row: auto 1fr auto;
+}
+
+header {
+    background-color: red;
+}
+
+main {
+    background-color: blue;
+}
+
+footer {
+    background-color: green;
+}
